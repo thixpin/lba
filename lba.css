@@ -1,0 +1,624 @@
+/* For Home */
+.slider-01 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider-01:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/home_photo/home01.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-01 div {
+	z-index: 2;
+}
+
+.slider-01-short {
+	letter-spacing: 0px;
+}
+
+.slider-01-info {
+	color: #ffffff;
+}
+
+
+.slider-02 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider-02:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/home_photo/home02.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-02 div {
+	z-index: 2;
+}
+
+.slider-02-short {
+	letter-spacing: 0px;
+}
+
+.slider-02-info {
+	color: #ffffff;
+}
+
+.slider-03 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider-03:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/home_photo/home03.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-03 div {
+	z-index: 2;
+}
+
+.slider-03-short {
+	letter-spacing: 0px;
+}
+
+.slider-03-info {
+	color: #ffffff;
+}
+
+.slider-04 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider-04:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/home_photo/home04.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-04 div {
+	z-index: 2;
+}
+
+.slider-04-short {
+	letter-spacing: 0px;
+}
+
+.slider-04-info {
+	color: #ffffff;
+}
+
+.slider-05 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider-05:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/home_photo/home05.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-05 div {
+	z-index: 2;
+}
+
+.slider-05-short {
+	letter-spacing: 0px;
+}
+
+.slider-05-info {
+	color: #ffffff;
+}
+
+.slider-06 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider-06:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/home_photo/home06.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-06 div {
+    z-index: 2;
+}
+
+.slider-06-short {
+    letter-spacing: 0px;
+}
+
+.slider-06-info {
+    color: #ffffff;
+}
+
+.slider-07 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider-07:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/home_photo/home07.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-07 div {
+    z-index: 2;
+}
+
+.slider-07-short {
+    letter-spacing: 0px;
+}
+
+.slider-07-info {
+    color: #ffffff;
+}
+
+.slider-08 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider-08:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/home_photo/home08.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-08 div {
+    z-index: 2;
+}
+
+.slider-08-short {
+    letter-spacing: 0px;
+}
+
+.slider-08-info {
+    color: #ffffff;
+}
+
+.slider-09 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider-09:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/home_photo/home09.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-09 div {
+    z-index: 2;
+}
+
+.slider-09-short {
+    letter-spacing: 0px;
+}
+
+.slider-09-info {
+    color: #ffffff;
+}
+
+.slider-10 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider-10:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/home_photo/home10.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider-10 div {
+    z-index: 2;
+}
+
+.slider-10-short {
+    letter-spacing: 0px;
+}
+
+.slider-10-info {
+    color: #ffffff;
+}
+/* End for home sildes*/
+
+/* For Course */
+.slider01 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider01:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/courses/pic01.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider02 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider02:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/courses/pic02.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider03 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider03:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/courses/pic03.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider04 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider04:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/courses/pic04.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider05 {
+	position: relative;
+	background: #000;	
+    overflow: hidden;
+}
+
+.slider05:after {
+	content: ' ';
+	display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+	background-image: url('./images/courses/pic05.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider06 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider06:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/courses/pic06.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.slider07 {
+    position: relative;
+    background: #000;   
+    overflow: hidden;
+}
+
+.slider07:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.6;
+    background-image: url('./images/courses/pic07.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+/* End for courses slides*/
+
+.hero-area .slide-text h1 .short {
+	font-size: 20px;
+	position: relative;
+	display: block;
+	font-weight: 400;
+	margin-bottom:10px;
+	text-transform: capitalize;
+	color: #555;
+	letter-spacing: 1px;
+	line-height: initial;
+}
+
+.course-box {
+	background: #ffffff;
+	position: relative;
+	-webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.30);
+	-moz-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.30);
+	box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.30);
+	overflow: hidden;
+	border-radius: 7px;
+	padding: 0px 15px 0px 15px;
+}
+
+.course-box .course-title i{
+	font-size: 30px;
+	color: #ED1C24;
+	padding-top: 40px;
+}
+.course-box .course-title h2 {
+	font-size: 20px;
+	color: #666666;
+	text-align: left;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+
+.course-box .course-logo {
+	width: 100%;
+}
+
+.course-logo img {
+	float: right;
+	display: block;
+	width: auto;
+	height: 75px;
+	margin: 12px 0px 12px 0px;
+}
+
+@media(max-width: 768px){
+	.course-box .course-title h2 {
+		font-size: 20px;
+		color: #666666;
+		text-align: center;
+		padding-top: 35px;
+		padding-bottom: 35px;
+	}
+}
